@@ -32,11 +32,11 @@ Author: Khawar Khan
    #for Linux/Unix
    cp -r Rock-Paper-Scissor-PHP C:\xampp\htdocs\
 4. Access the Program:
-   *Open your web browser and go to:
+   * Open your web browser and go to:
    ```plaintext
    http://localhost/Pock-Paper-Scissor-PHP/login.php
 5. Usage:
-   * Your PHP program should now be accessible locally. Follow the on-screen instructions to interact with the application.
+   * Your PHP program should now be accessible locally, follow the on-screen instructions to interact with the application.
    * You can write your username in the User field.
    * The password is
      ```bash
