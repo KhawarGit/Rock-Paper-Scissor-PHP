@@ -3,6 +3,15 @@ Experience a fun PHP-based game of Rock, Paper, Scissors with a user-friendly in
 ```bash
 Author: Khawar Khan
 ```
+## Table of Contents
+
+
+1. [Prerequisites](#prerequisites)
+2. [Getting Started](#getting-started)
+3. [Features](#features)
+4. [Troubleshooting](#troubleshooting)
+5. [Enjoy the Game](#enjoy-the-game)
+
 ## Prerequisites
 - PHP installed on your machine.
 - XAMPP installed on your machine. 
