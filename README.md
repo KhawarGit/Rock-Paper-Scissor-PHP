@@ -60,3 +60,8 @@ Author: Khawar Khan
 
 ## Enjoy the Game:
 Use the password provided, and your username to personalize your Rock, Paper, Scissors experience.
+
+<hr />
+Author: Khawar Khan
+<br />
+LinkedIn: www.linkedin.com/in/khawar-khan
